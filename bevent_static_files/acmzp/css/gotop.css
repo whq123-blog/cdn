@@ -1,0 +1,25 @@
+.actGotop {
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+    width: 100px;
+    height: 195px;
+    display: none;
+}
+
+.actGotop a, .actGotop a:link {
+    width: 100px;
+    height: 195px;
+    display: inline-block;
+    background: url(../img/gotop.png) no-repeat;
+    background-size: 100%;
+    outline: none;
+}
+
+.actGotop a:hover {
+    width: 100px;
+    height: 195px;
+    background: url(../img/gotopd.gif) no-repeat;
+    background-size: 100%;
+    outline: none;
+}

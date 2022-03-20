@@ -1,0 +1,52 @@
+.top {
+    width: 100%;
+    background: #5580fb;
+    height: 60px;
+    z-index: 666;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+}
+
+.main {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.nav_bar {
+    float: left;
+    height: 60px;
+    position: relative;
+    left: 50%;
+}
+
+.nav_bar ul {
+    float: left;
+    position: relative;
+    left: -50%;
+}
+
+.nav_bar ul li {
+    list-style-type: none;
+    float: left;
+    line-height: 60px;
+    text-align: center;
+    width: 100px;
+}
+
+.nav_bar ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+}
+
+.nav_bar > ul > li:hover {
+    background: #00cece;
+}
+
+.nav_bar > ul > li .hover {
+    background: #00cece;
+}
+

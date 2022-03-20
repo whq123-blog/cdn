@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d0b2174-8433-4b86-adbb-3bfb9fffe021" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/font_eolqem241z66flxr.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/images.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/message.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/user.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/face.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bodyTab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/kit.fontawersone.comNav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/leftNav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/images.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/userface.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/usersList.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/laydate/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/laydate/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/images/face/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/dest/layui.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/layim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layui/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/img/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/img/images.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/pro/pj.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/user/addUser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/user/addUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/user/address.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/user/allUsers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/user/allUsers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/user/changePwd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/user/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/user/userInfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/1st.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/c1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/c3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/image/cccc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jltsmJu0BXzjbSFbuz4DVJ5wF6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d0b2174-8433-4b86-adbb-3bfb9fffe021" name="Default Changelist" comment="" />
+      <created>1604390716186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604390716186</updated>
+      <workItem from="1604390717423" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
